@@ -14,5 +14,6 @@ int main(void)
     int end;
     scanf("%d",&end);
     printf("The end");
+    printf("Good bye my friend");
     return 0;
 }
